@@ -33,8 +33,7 @@ Ein webbasiertes Portal zum Verwalten und Ausleihen von Hochschul-Equipment, ent
 
 ## Weitere Projekte
 
-### Katzen-Chaos
-![Touch](https://img.shields.io/badge/Touch_Game-Canvas-orange?style=flat-square)
+### Katzen-Chaos · ![Touch](https://img.shields.io/badge/Touch_Game-Canvas-orange?style=flat-square)
 Ein Touch-basiertes Mobile Game zur Erforschung von Multi-Touch-Interaktionen, entwickelt im Rahmen des Kurses Mensch-Computer-Interaktion 2.
 
 Katzen fliegen durch das Bild und müssen eingefangen werden – mit zwei Fingern greifen, drehen, streicheln und dann ins richtige Körbchen ziehen. Fokus lag auf der Implementierung unterschiedlicher Touch-Patterns und flüssiger Multi-Touch-Gesten.
@@ -43,8 +42,7 @@ Katzen fliegen durch das Bild und müssen eingefangen werden – mit zwei Finger
 
 [Repository](link)
 
-### Tiny Realm
-![VR](https://img.shields.io/badge/VR_Game-WebXR-blue?style=flat-square)
+### Tiny Realm · ![VR](https://img.shields.io/badge/VR_Game-WebXR-blue?style=flat-square)
 Ein VR-Spiel für Meta Quest und Browser, in dem man eine kleine Insel aus der Gott-Perspektive gegen angreifende Slimes verteidigt. Entwickelt im Kurs Mensch-Computer-Interaktion 2.
 
 Die Spielmechanik basiert auf direkter 3D-Interaktion: Objekte wie Bäume und Steine greifen und auf Gegner werfen, oder die Monster direkt packen und von der Insel schleudern. Das Projekt diente als Einstieg in WebXR und räumliche Interaktionskonzepte.
