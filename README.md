@@ -40,7 +40,7 @@ Katzen fliegen durch das Bild und müssen eingefangen werden – mit zwei Finger
 
 **Technologien:** JavaScript (ES6 Modules) · Touch Events API · Canvas
 
-[Repository]((https://github.com/Yannick-J/Katzen-Chaos))
+[Repository](https://github.com/Yannick-J/Katzen-Chaos)
 
 ### Tiny Realm · ![VR](https://img.shields.io/badge/VR_Game-WebXR-blue?style=flat-square)
 Ein VR-Spiel für Meta Quest und Browser, in dem man eine kleine Insel aus der Gott-Perspektive gegen angreifende Slimes verteidigt. Entwickelt im Kurs Mensch-Computer-Interaktion 2.
@@ -49,7 +49,7 @@ Die Spielmechanik basiert auf direkter 3D-Interaktion: Objekte wie Bäume und St
 
 **Technologien:** Three.js · WebXR · JavaScript
 
-[Repository]((https://github.com/Yannick-J/Tiny-Realm))
+[Repository](https://github.com/Yannick-J/Tiny-Realm)
 
 ---
 
